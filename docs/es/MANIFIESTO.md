@@ -1,4 +1,4 @@
-# Manifiesto GADD — v0.1 (Borrador público)
+# Manifiesto GADD — v0.1.0 (Lanzamiento inicial)
 
 Creemos que el desarrollo de software con agentes de inteligencia artificial debe seguir siendo ingeniería responsable, no generación de código sin control.
 
