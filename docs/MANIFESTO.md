@@ -1,4 +1,4 @@
-# The GADD Manifesto — v0.1 (Public Draft)
+# The GADD Manifesto — v0.1.0 (Initial Release)
 
 We believe software development with AI agents must remain accountable engineering, not uncontrolled code production.
 
