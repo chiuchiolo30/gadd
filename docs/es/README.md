@@ -1,6 +1,6 @@
 # GADD — Desarrollo Dirigido por Agentes bajo Gobernanza
 
-**Versión:** v0.1.0 · Borrador público  
+**Versión:** v0.1.0 · Lanzamiento inicial  
 **Creado por:** Sergio Edgardo Chiuchiolo  
 **Iniciativa independiente:** Chiuchiolo Labs
 
