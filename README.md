@@ -1,9 +1,9 @@
 # GADD — Governed Agent-Driven Development
 
-**Version:** v0.1.0 · Public Draft  
+**Version:** v0.1.0 · Initial Release  
 **Created by:** Sergio Edgardo Chiuchiolo  
 **Independent initiative:** Chiuchiolo Labs  
-**First draft:** November 2026
+**Initial release:** November 6, 2026
 
 > Delegate execution to agents. Preserve engineering authority through governance and verifiable evidence.
 
