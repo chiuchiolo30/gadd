@@ -1,6 +1,6 @@
 # Comparación técnica: GADD, ADD, SDD y ODD
 
-**Estado:** borrador de investigación para GADD v0.1.0 (5 de noviembre de 2026).  
+**Estado:** comparación técnica para GADD v0.1.0 (revisada el 6 de noviembre de 2026).  
 **Alcance:** comparación con implementaciones documentadas. Por **SDD** usamos principalmente como referencia [GitHub Spec Kit](https://github.github.com/spec-kit/): SDD es una familia de prácticas y no una única metodología propietaria. **ADD** designa [Agent Driven Development (getadd.dev)](https://getadd.dev/docs/), **ODD** designa [Organic Driven Development de Gentle AI](https://github.com/Gentleman-Programming/gentle-ai/blob/main/docs/usage.md), y **GADD** es la propuesta descrita en este repositorio. Estas referencias pueden evolucionar.
 
 ## Resumen
