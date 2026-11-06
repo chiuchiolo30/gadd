@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use GADD in academic or technical work, please cite its author and this repository."
+title: "GADD — Governed Agent-Driven Development"
+type: software
+authors:
+  - family-names: Chiuchiolo
+    given-names: Sergio Edgardo
+version: "0.1.0"
+repository-code: "https://github.com/chiuchiolo30/gadd"
+url: "https://github.com/chiuchiolo30/gadd"
+abstract: "A tool-independent, architecture-independent, governance-oriented methodology for software engineering with AI agents."
+license: CC-BY-4.0
+keywords:
+  - software-engineering
+  - ai-agents
+  - governance
+  - architecture
+  - verification
