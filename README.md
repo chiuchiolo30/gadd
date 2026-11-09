@@ -17,6 +17,8 @@ It is usable in lower-risk projects, but controls SHOULD scale to the risk of th
 
 GADD is **not** a programming language, coding assistant, architecture style, IDE extension, or AI model. It does not require Clean Architecture, MVVM, DDD, a particular agent framework, or any specific product.
 
+**Launch article (Spanish):** [GADD: Governed Agent-Driven Development — origin and motivation](https://medium.com/@edgardochiuchiolo/gadd-governed-agent-driven-development-d5e35327fc73).
+
 ## The problem
 
 AI agents can produce code quickly, but code production is not equivalent to authorized, reviewable, architecture-compliant engineering. Project instructions alone do not guarantee compliance. GADD separates authority, delegated execution, verifiable evidence, and acceptance.
